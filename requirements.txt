@@ -1,3 +1,4 @@
 djitellopy
 ipykernel
 transformers
+matplotlib
